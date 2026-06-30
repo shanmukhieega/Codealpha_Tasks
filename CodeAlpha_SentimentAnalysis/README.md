@@ -2,6 +2,7 @@
 <br>
 Sentiment Analysis is a Natural Language Processing project used to analyze text and classify it as "positive", "negative", or "neutral". It can also detect basic emotions such as joy, anger, sadness, trust, and fear using simple word-based lexicons.
 <br>
+
 <b>Objectives</b>
 <br>
 - Analyze text data to classify sentiment.<br>
@@ -9,6 +10,7 @@ Sentiment Analysis is a Natural Language Processing project used to analyze text
 - Apply analysis to Amazon reviews, social media posts, and news articles.<br>
 - Understand public opinion and sentiment trends.<br>
 - Use results for marketing, product development, and social insights.<br>
+
  <b>Features</b><br>
 - Takes text input from the user.<br>
 - Cleans and processes the text.<br>
@@ -22,4 +24,11 @@ Sentiment Analysis is a Natural Language Processing project used to analyze text
 - Natural Language Processing basics<br>
 - Lexicon-based sentiment analysis<br>
 - Regular expressions<br>
-- Collections module
+- Collections module<br>
+<b>Applications</b>
+- Amazon review analysis<br>
+- Social media opinion tracking<br>
+- News article sentiment study<br>
+- Customer feedback analysis<br>
+- Product improvement<br>
+- Marketing strategy planning
