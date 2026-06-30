@@ -25,7 +25,8 @@ Sentiment Analysis is a Natural Language Processing project used to analyze text
 - Lexicon-based sentiment analysis<br>
 - Regular expressions<br>
 - Collections module<br>
-<b>Applications</b>
+
+<b>Applications</b><br>
 - Amazon review analysis<br>
 - Social media opinion tracking<br>
 - News article sentiment study<br>
